@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To run this project perfectly you need a API key from : https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/
+
+Put it in .env file with name:
+
+REACT_APP_API_KEY
+
+Deployed on :
+=============
+
+#### https://62f10b958fac9d7ccfd76ffc--lighthearted-belekoy-2f4f07.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
